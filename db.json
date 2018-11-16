@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "underwriter": "Haven",
+      "price": 436.67
+    },
+    {
+      "id": 2,
+      "underwriter": "Mulsanne",
+      "price": 455
+    },
+    {
+      "id": 3,
+      "underwriter": "KGM",
+      "price": 425.99
+    }
+  ]
+}
